@@ -49,3 +49,7 @@ brew test andrewjamesford/tap/pageflick-tools
 ```
 
 The formula test uses a synthetic connection file and offline MCP discovery. It does not query the user's real app data. Live app compatibility must be verified separately.
+
+## Verification
+
+See [the 1.0.0 preview verification record](VERIFICATION.md) for the archive checksum, installed-package checks, Homebrew audit results and remaining app-compatibility limits.
